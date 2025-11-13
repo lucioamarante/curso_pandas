@@ -1,3 +1,1 @@
-"# acobratafumando"  
-"#cursopanbas"  
 "#cursopandas"  
